@@ -1,4 +1,9 @@
 # Mushroom-Classification
+
+In this kernel we have picked each feature and tried to understand its dependency with the edibility. How a feature impact its edibility. A lot of EDA has been performed here.
+
+After EDA and some conversion of numerical feature into categorical one, I have introduced the features to RF,Xgboost, SVM,LR model to identify the edibility.
+
 A Machine learning project to identify if an mushroom is edible or not
 
 Context
